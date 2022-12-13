@@ -1,3 +1,0 @@
-- Simple RNN
-- Neural Credibility
-- Ordered Neural Credibility
