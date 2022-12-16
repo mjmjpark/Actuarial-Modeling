@@ -1,5 +1,6 @@
 ## STAN Examples
 
-- AR(1)
+- AR(1) 
 - possion glm
 - glmm
+- possion gamma
